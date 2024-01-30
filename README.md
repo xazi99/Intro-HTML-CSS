@@ -28,8 +28,18 @@ DATE ELEMENT
 HTML uses this element to to set date and time in a way that computers will understand. 
 Syntax <time datetime="2024-01-12">January 12,2024</time>. Date and time have their specific format that machines can understand and as programmer we need to use them.
 
-HTML DATE AND TIME INPUTS
+#HTML DATE AND TIME INPUTS
 HTML use this single element <time>, this element is used to mark anything that specifies time,date,day,and duration. The is also a closing tag </time>.
 In between the tags we use a readable human format.
 
-HTML CODE,PRE AND BR
+#HTML CODE,PRE AND BR
+HTML signs "&lt" which represent a less than sign and "&gt" that represent a greater than sign.
+The br element is added at the end of each line, it is a simple tag without opening and closing tags. Pre and Code are combined in most cases to display block codes.
+
+#HTML Superscripts,Subscripts and Small text
+They are used to mark up certain bits of a content that you want it to have a different meaning than the rest of the content.
+Subscripts are charactors that are normally set below the baseline for a text.Superscript are charactors that are set above the baseline of a text.
+
+#UNIT 3
+HTML CAPABILITIES
+Troubleshooting and Debugging HTLM 
