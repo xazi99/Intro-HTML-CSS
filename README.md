@@ -12,16 +12,16 @@ The first element(h1) is the largest one while h6 is the small one and is not im
 
 #HTML BOLD AND ITALICS
 There are two elements for Bold and two elements for etalic. When we italicize a word we want it to have a strong meaning.
-We use <i> element to italics and <em> element to emphasize, the are two elements in HTML that make a word or phrase Bold or Emphasize. We use <strong> element to show that something is important and serious and we use <b> element to make the phrase bold.
+We use (<i>) element to italics and (<em>) element to emphasize, the are two elements in HTML that make a word or phrase Bold or Emphasize. We use <strong> element to show that something is important and serious and we use (<b>) element to make the phrase bold.
 
 #HTML LISTS
-We have three tyoes of lists, the are Ordered lists, un-ordered lists and definition lists. Unorderd lits are used everyday, they are enclosed with <li> element that represent that they are a list item and they are wrapoed with <ul> element that shows that this is an unoedred list.
-On orderd list we use <ol> to wrap the entire list which shows that the list is ordered.
-Definition list it is used to create list that resembles a key-value. They use specific elements, a term is enclosed in a <dt> tag stands for definition term. The description term is enclosed in a <dd> tag which stands for definition description. The entire list s wrapped up by a <dl> tag which stand for a definiion list.
+We have three tyoes of lists, the are Ordered lists, un-ordered lists and definition lists. Unorderd lits are used everyday, they are enclosed with <li> element that represent that they are a list item and they are wrapoed with (<ul>) element that shows that this is an unoedred list.
+On orderd list we use (<ol>) to wrap the entire list which shows that the list is ordered.
+Definition list it is used to create list that resembles a key-value. They use specific elements, a term is enclosed in a <dt> tag stands for definition term. The description term is enclosed in a (<dd>) tag which stands for definition description. The entire list s wrapped up by a (<dl>) tag which stand for a definiion list.
 
 #HTML QOUTES
-On qoutes we enclose the paragraph with a <p> tag and we then make the qoute differ or other text with <blockqoute> element that will wrap the entired thing.
-We have <cite> and <blockqoute> elements that notify other computers about a additinal information.
+On qoutes we enclose the paragraph with a (<p>) tag and we then make the qoute differ or other text with <blockqoute> element that will wrap the entired thing.
+We have (<cite>) and <blockqoute> elements that notify other computers about a additinal information.
 On HTML we use <q> element which stands for qoute and the browser automatically provide the right qoute mark.The are also block-level elements.
 
 DATE ELEMENT
