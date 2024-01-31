@@ -1,11 +1,16 @@
 # Intro-HTML-CSS    
-#UNIT ONE
+#UNIT1
+WHAT IS HTML?
+
+UNIT2
 #Taxt formatting and Syntax
 HTML is a standard markup language usedto stracture web pages.It uses tags meaning it uses less than and greather than(><). We have two types of tags which are Opening tags <h> and closing tags </h>. In most cases the tags work together to define elements.Most important purpose for HTML is that it gives meaning of the content and help cumputers understand it.
+
 #HTML ELEMENTS
 #NESTED HTLM ELEMENTS & HTML PARAGRAPHS
 We are a DOM tree stands for Document Object Model.
 On HTML paragraphs we use tags to separate the paragraphs,when starting a paragraph we use an opening tag<p> then we end with a closng tag</p>.
+
 #HTML HEADLINES
 They help people to understand the page structure, also they can be the main content. They also act as a title that attract readers for more information. There are six elemets used for marking headlines(h1,h2,h3,h4,h5,h6)
 The first element(h1) is the largest one while h6 is the small one and is not important, the rest of the elements fall in between in the orderof importance.
@@ -43,3 +48,33 @@ Subscripts are charactors that are normally set below the baseline for a text.Su
 #UNIT 3
 HTML CAPABILITIES
 Troubleshooting and Debugging HTLM 
+When writing a code and accidentally made a mistake the Dom will make the results to have extra because it believes that the should be an extra tag.
+HTML ATTRIBUTES
+The datetime attribute is used only to the time element,other attributes work with multiple elements but not all of them.Syntax for class attribute <p class="intro"> then the end tag </p>.
+Syntax for Id attribute <p class="intro"id="article-intro"> then the end tag </p>.
+
+GLOBAL ATTRIBUTES
+Mostly used attribute is Class attribute and it allow to assign reusable name to any element, which can be styled using CSS.
+ID attribute it is similar to the class attribute but we can only use unique and can be used for CSS targeting that are more specific and sometimes can cause issues.
+Content editable attribute allow visitors to adit the content on the web page.
+Lang attribute allow to specify the language of a content using short language code.
+Dir attribute shows the direction on which the text flows using Left-to-right(LTR) script and Right-to-left(RTL) script.
+Lang and dir are considered are global attributes and can be used to HTML attributes.
+
+ARIA ROLES
+They are extra attributes that can be added on HTML elements to make them more meaningful and and help browsers to understand what they represent.They came about when the web began and replace vative applications
+It is a powerful used tool that greately enhances web accessibiity.
+
+FORMATTING HTML
+Comments are inserted by typing "<!--" at the start and type this "-->" at the end. The length of an element give the clue of how long it has been on existence. Some older elements have no closing tags while the new ones have both the opening and a closing tag.
+
+UNUSUAL CHARACTERS
+The symbol <,>,& are important characters of HTML. If we write them with spaces inbetween they become the real content. Non-breaking space has a unique role in Html,spaces in the text allow lines to break and words remain intact.
+Non-breaking space also tell the browser not to break the lines between two words. It also create multiple spaces between te words.
+
+#UNIT 4
+HTML NAVIGATION AND LINKING
+HTML LINKS
+
+
+
