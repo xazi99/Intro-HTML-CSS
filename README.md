@@ -54,11 +54,16 @@ The datetime attribute is used only to the time element,other attributes work wi
 Syntax for Id attribute <p class="intro"id="article-intro"> then the end tag </p>.
 
 GLOBAL ATTRIBUTES
+
 Mostly used attribute is Class attribute and it allow to assign reusable name to any element, which can be styled using CSS.
+
 ID attribute it is similar to the class attribute but we can only use unique and can be used for CSS targeting that are more specific and sometimes can cause issues.
 Content editable attribute allow visitors to adit the content on the web page.
+
 Lang attribute allow to specify the language of a content using short language code.
+
 Dir attribute shows the direction on which the text flows using Left-to-right(LTR) script and Right-to-left(RTL) script.
+
 Lang and dir are considered are global attributes and can be used to HTML attributes.
 
 ARIA ROLES
