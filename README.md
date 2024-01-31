@@ -62,19 +62,25 @@ Dir attribute shows the direction on which the text flows using Left-to-right(LT
 Lang and dir are considered are global attributes and can be used to HTML attributes.
 
 ARIA ROLES
+
 They are extra attributes that can be added on HTML elements to make them more meaningful and and help browsers to understand what they represent.They came about when the web began and replace vative applications
 It is a powerful used tool that greately enhances web accessibiity.
 
 FORMATTING HTML
+
 Comments are inserted by typing "<!--" at the start and type this "-->" at the end. The length of an element give the clue of how long it has been on existence. Some older elements have no closing tags while the new ones have both the opening and a closing tag.
 
 UNUSUAL CHARACTERS
+
 The symbol <,>,& are important characters of HTML. If we write them with spaces inbetween they become the real content. Non-breaking space has a unique role in Html,spaces in the text allow lines to break and words remain intact.
+
 Non-breaking space also tell the browser not to break the lines between two words. It also create multiple spaces between te words.
+
 
 #UNIT 4
 HTML NAVIGATION AND LINKING
 HTML LINKS
+When creating a link we use an A element which stand for ancher,we add a href attribute with the URL enclosed on qoutes.The URL will take us to the link and the href stands for HyperText Reference
 
 
 
