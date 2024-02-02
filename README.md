@@ -88,7 +88,11 @@ URL are options for formatting links,to for a URL you need to graps how files ar
 
 NAVIGATION
 Each link is wrapped in an element with the correct URL and then enclosed with "li" element to make a list for links. You have to wrap the entire link with "ul" element to show that it is an unordered list.
-encompass the entire link with "nav" to show that the link is a navigation site, you have to apply the CSS styling because without the CSS styling it appears as a plain list
+encompass the entire link with "nav" to show that the link is a navigation site, you have to apply the CSS styling because without the CSS styling it appears as a plain list.
+
+#UNIT 5
+GRAPHICS AND IMAGES
+The are four elements for imagi
 
 
 
