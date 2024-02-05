@@ -92,7 +92,20 @@ encompass the entire link with "nav" to show that the link is a navigation site,
 
 #UNIT 5
 GRAPHICS AND IMAGES
-The are four elements for imagi
+Element IMG id used to add images on the web page,we include four attributes for every image.
+>Source attribute(SRC) tells the browser which image to load.
+>Alternate attribute(alt) provides text descriptin of an image.
+>Width and Height attribute they describe the size of an image, it is important for an image to have all four of the attributes.
+IMAGE FORMATS
+The are main commonly used image formats:GIF,SVG,JPG,NPG
+>GIF-is used for compressing illustrations that have the large of the same color,they have transparent areas.
+>SVG-they are perfect for logos,icons and other illustrations.They can be scaled to any sixe without losing any quality,and the size remains the same. It is the programming language for graphics
+>JPG-they are popular choice for compressing photographs,they can also be compressed by reducing the color information,finding the right balance between size and quality.
+>NPG-it is a new format that works well with transparency in a phography,it can also outperform the GIF and JPG on compressing certain images.
+
+RESPONSIVE IMAGES
+CSS can ofter to display the image in different sizes to accomodate small and large screens. HTML allows to diliver differents image files to different screen size.
+To support different screens you need to create multple images with diffrent resolutions,then the device choose image to use based on sceen density,netwok connection
 
 
 
