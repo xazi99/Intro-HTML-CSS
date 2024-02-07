@@ -1,6 +1,7 @@
 # Intro-HTML-CSS    
 #UNIT1
 WHAT IS HTML?
+HyperText mark-up language is a standard mark-up language for documents disigned to be displayed on a web brower.
 
 UNIT2
 #Taxt formatting and Syntax
@@ -105,7 +106,26 @@ The are main commonly used image formats:GIF,SVG,JPG,NPG
 
 RESPONSIVE IMAGES
 CSS can ofter to display the image in different sizes to accomodate small and large screens. HTML allows to diliver differents image files to different screen size.
-To support different screens you need to create multple images with diffrent resolutions,then the device choose image to use based on sceen density,netwok connection
+To support different screens you need to create multple images with diffrent resolutions,then the device choose image to use based on sceen density,netwok connection.
+
+#UNIT 6
+Working with Media
+Working with Audios
+Audio element as both openning and closing tags,which makes it more morden and gives it power and flexibility.
+Video Element
+it has both tags(opening & closing), you used the source attribute(src) to specify the video file. When you add the control attribute the browser creates a video player.
+Captions and Subtitle
+We use track element to link the text file to add caption on a video,the track element adds functionality to the video player.
+Captions and subtitle are not only powerful but they are required by law.By including then your content can be more accessible.
+Embedding Media via Inframes
+Embedding is when moving your content from one site and placing it in the middle of another site.
+
+#UNIT 7
+HTML CONTENT IDENTIFICATION
+HTML Language Support
+We use the lang attribute to specify the language of a web page, the lang attribute has many options it does not only indicate language but has other qualities like writing system. It does also specify the content's direction.
+
+
 
 
 
