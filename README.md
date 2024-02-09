@@ -148,7 +148,11 @@ The aside element is for content that is off to the side, like sidebar informati
 #UNIT 9
 WORKING WITH FORMS AND INTERACTIVE ELEMENTS
 Form fields are used for various tasks like logging into websites, making purchases, conducting searches, and adding content. 
-It is important to use semantic form elements in HTML instead of divs and spans because it allows us to leverage the built-in power of the browser
+It is important to use semantic form elements in HTML instead of divs and spans because it allows us to leverage the built-in power of the browser.
+MAKING A FORM
+To create a form, we start with the form element, which informs the browser about the presence of a form using opening and closing tags.Fields name can be turned on labels using the label element.
+After you use the input element to provide the users to input thei names and emails.Input element does not have the closing tag.
+Use the button element to create the button for users to
 
 
 
