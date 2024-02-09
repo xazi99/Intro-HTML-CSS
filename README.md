@@ -136,6 +136,18 @@ HTML,elements,attributes,roles and tools are used to mark up the content on webs
 HTML HEAD
 Inside the head you put important information that the browser needs to know about the website,use the meta element and ensure that they are placed inside the head because they provide metadata about the web page.
 Meta elements are commly used to inform the browser that the layout has been adjusted to fit small screens.
+The script element is used on HTML documents head.
+CONTENT STRUCTURING
+The main element is used once per webpage and tells the browser where the main content is located.
+The header and footer elements mark the header and footer areas on the page.
+The footer signifies that there are extra things to convey, regardless of its position on the page.
+An article often starts with a title, subtitle, author's name, and publication date, which can also be considered a header.
+The section element is used to mark sections of content.
+The aside element is for content that is off to the side, like sidebar information or additional details that accompany an article but are not part of its main flow.
+
+
+
+
 
 
 
