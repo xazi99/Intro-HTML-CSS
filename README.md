@@ -133,6 +133,9 @@ Div is a block-level element while span is an inline element,they both do nothin
 HTML INTEGRATION
 HTML PAGE
 HTML,elements,attributes,roles and tools are used to mark up the content on websites and web apps.
+HTML HEAD
+Inside the head you put important information that the browser needs to know about the website,use the meta element and ensure that they are placed inside the head because they provide metadata about the web page.
+Meta elements are commly used to inform the browser that the layout has been adjusted to fit small screens.
 
 
 
