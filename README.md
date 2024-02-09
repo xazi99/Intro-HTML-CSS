@@ -124,6 +124,16 @@ Embedding is when moving your content from one site and placing it in the middle
 HTML CONTENT IDENTIFICATION
 HTML Language Support
 We use the lang attribute to specify the language of a web page, the lang attribute has many options it does not only indicate language but has other qualities like writing system. It does also specify the content's direction.
+Lang attribute does not only used to specify the language it is also used for writing systems. Specify the direction of a content. Use the dv element to specify the direction of the language and it can be applied on any element.
+Set the charset for the project.
+HTML GENERIC ELEMENTS DIV & SPAN
+Div is a block-level element while span is an inline element,they both do nothing until CSS and javascript ia applied to them.
+
+#UNIT 8
+HTML INTEGRATION
+HTML PAGE
+HTML,elements,attributes,roles and tools are used to mark up the content on websites and web apps.
+
 
 
 
