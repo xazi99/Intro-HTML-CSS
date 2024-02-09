@@ -145,6 +145,11 @@ An article often starts with a title, subtitle, author's name, and publication d
 The section element is used to mark sections of content.
 The aside element is for content that is off to the side, like sidebar information or additional details that accompany an article but are not part of its main flow.
 
+#UNIT 9
+WORKING WITH FORMS AND INTERACTIVE ELEMENTS
+Form fields are used for various tasks like logging into websites, making purchases, conducting searches, and adding content. 
+It is important to use semantic form elements in HTML instead of divs and spans because it allows us to leverage the built-in power of the browser
+
 
 
 
