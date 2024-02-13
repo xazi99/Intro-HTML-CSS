@@ -152,7 +152,20 @@ It is important to use semantic form elements in HTML instead of divs and spans 
 MAKING A FORM
 To create a form, we start with the form element, which informs the browser about the presence of a form using opening and closing tags.Fields name can be turned on labels using the label element.
 After you use the input element to provide the users to input thei names and emails.Input element does not have the closing tag.
-Use the button element to create the button for users to
+Use the button element to create the button for users to submit information.
+
+#UNIT 10
+ORGANIZNG TABULAR INFORMATION ON HTML
+HTML TABLES
+We use html tables when your information is a tabbular form,do not misuse html tables.The table conveys a relationship between the data cells and the header cells between one column or row and the next. 
+Usu CSS to rearrange how the table shoud be displayed, change the layout for different sized screen. It doesn't have to look like a table, but if the information is in tabular form use the html tables.
+BUILDING HTML TABLES
+When creating html table you use different html elements suc as: table,TR,TD,TH.
+<table></table> wraps the whole table.
+<tr></tr> table row-wraps the set of elements defining them as they belong to the same row.
+<th></th> table header-defining the header for the column.
+<td></td> table data-marks the actual bits of data.
+
 
 
 
