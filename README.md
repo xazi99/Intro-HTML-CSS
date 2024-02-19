@@ -167,6 +167,19 @@ When creating html table you use different html elements suc as: table,TR,TD,TH.
 <td></td> table data-marks the actual bits of data.
 
 
+#INTRODUCTION TO CSS
+#UNIT 1
+#HTML & CSS
+CSS is a style sheet that holds the style of the webpage, it also add the visual appeal of the webpage.
+CSS has to parts: selector and declaration block.The selector specifies the pattern and if the pattern matches the style in the declaraction block it is applied to the corresponding HTML element.
+CSS COMPONENTS
+CSS declaraction stype consists of two parts which are value and property.
+Writing first Comment & Selector
+In CSS, we use a dot (.) before the class name to differentiate it from HTML element selectors.
+Omn css we have selectors which are element,class,group and descendent selectors. To apply style on descendent selector you use the OL& LI elements without the tags,the space between the elements shows the descendent relationship.
+CSS selectors that involve multiple items you read them from right-to-left,even thogh you write them from left-to-right.
+
+
 
 
 
