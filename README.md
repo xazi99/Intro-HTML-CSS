@@ -179,6 +179,43 @@ In CSS, we use a dot (.) before the class name to differentiate it from HTML ele
 Omn css we have selectors which are element,class,group and descendent selectors. To apply style on descendent selector you use the OL& LI elements without the tags,the space between the elements shows the descendent relationship.
 CSS selectors that involve multiple items you read them from right-to-left,even thogh you write them from left-to-right.
 
+#UNIT 2
+SELECTORS
+Is a pattern used to select and style html elements on a web page. The target specific elements based on their types,atribute, class or id allowing the user to apply style on them.
+CLASS SELECTOR
+When writing a class selector you prefix the class name with a dot. 
+E.g   .navbar {
+        color:red;
+        }
+GROUPING SELECTORS
+You group selectors on CSS by separating them with commans, this allow the user to apply the same types to multiple selectors.
+e.g
+h1, h2, p {
+color:blue,
+}
+DESCENDENT SELECTORS
+Targets an element that is descendent of another specified element.
+
+#UNIT 3
+IDENTIFY A COLOR SCHEME
+Formatting colors
+Hex values are typically six-digits long and consist of numbers zero to nine and letters A to F. The first two digits represent red, the next two represent green, and the final two represent blue. These digits correspond to numbers ranging from zero to 255. 
+RGB format, where colors are written out using Base 10 numbers to specify the red, green, and blue channels. This format can also be represented as an eight-digit hex number or RGBA. In both cases, the last number corresponds to Alpha, which relates to the opacity and transparency of the color. It determines how well we can see through the color. 
+HSL or HSLA formats may also be used occasionally, particularly within platforms like Squarespace.
+Background and text color in CSS
+You can choose a color for the text and another for the background, whether it is a specific element or the entire page.
+Image Formats
+GIF: Had limited colors but could include transparency and animation. 
+PNG: Had more colors and transparency but no animation. GIF and PNG were suitable for illustrations such as logos or cartoons. 
+JPEG: Stands for Joint Photographic Experts Group, was optimized for photographs and supported millions of colors but lacked transparency and animation.
+It is important to choose the right color when workig with images.
+Recently, a new image format called WebP has emerged. WebP can be used for any image type and offers high compression for smaller file sizes, resulting in faster website loading times. It's expected that WebP will grow in popularity due to its versatility and efficiency in loading both photos and illustrations quickly with small file sizes.
+
+#UNIT 4
+UNDERSTANDING TYPE IN CSS
+
+
+
 
 
 
