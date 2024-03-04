@@ -214,6 +214,11 @@ Recently, a new image format called WebP has emerged. WebP can be used for any i
 #UNIT 4
 UNDERSTANDING TYPE IN CSS
 
+#MODULE 3
+#JAVA SCRIPT
+#INTRODUCTION
+JavaScript is a programming language used to make web pages interactive. It is what gives a page life - the interactive elements and animations that engage the user.JavaScript was purposely designed to integrate into html.
+
 
 
 
