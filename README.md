@@ -319,6 +319,9 @@ Method Parameters
 Syntactically speaking, methods are signified by parenthesis immediately following their name, e.g. "alert()".
 These parenthesis sometimes hold values called parameters, which are required by some methods. 
 
+#DAY 2
+JAVASCRIPT API's
+
 
 
 
