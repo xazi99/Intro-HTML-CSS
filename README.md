@@ -223,9 +223,9 @@ The concept of inheritance and specificity in CSS is quite complex.
 
 
 #MODULE 3
-#JAVA SCRIPT
+#JAVA SCRIPt
+#WEEK 1 DAY 1
 #INTRODUCTION
-# WEEK1 DAY 1
 VARIABLES
 JavaScript is a programming language used to make web pages interactive. It is what gives a page life - the interactive elements and animations that engage the user.JavaScript was purposely designed to integrate into html.
 Variables arecontainers for storing data ( var, let, const).
