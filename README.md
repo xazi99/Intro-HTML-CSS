@@ -280,8 +280,44 @@ Sprint
 #DAY 1 
 WEB DESIGN
 INTRO TO HTML,CSS & JS
+The Document Object Model and JavaScript Syntax
+The Document Object Model is an Application Programming Interface (API) for HTML and XML documents. It does two things for web developers: 
+Provides a structural representation of the document
+Defines the way that that structure is to be accessed from script
+This allows you to get at the web page as a structured group of nodes. Essentially, it connects web pages to scripts or programming languages.
+String Conversion
+String conversion happens when we need the string form of a value. 
+Numeric Conversion  
+Numeric conversion happens in mathematical functions and expressions automatically.  
+Boolean Conversion  
+Boolean conversion is the simplest one.  
+It happens in logical operations (later we’ll meet condition tests and other similar things) but can also be performed explicitly with a call to Boolean(value).  
+The conversion rule:
+Values that are intuitively “empty”, like 0, an empty string, null, undefined, and NaN, become false.  
+Other values become true.
 
+The Document Object Model and JavaScript Syntax
+The Document Object Model is an Application Programming Interface (API) for HTML and XML documents. It does two things for web developers: 
+Provides a structural representation of the document
+Defines the way that that structure is to be accessed from script
+This allows you to get at the web page as a structured group of nodes. Essentially, it connects web pages to scripts or programming languages.
+The JavaScript syntax has to do with objects. To access an object, property, or method, its reference must include every object that contains it, separated by a dot. This is called the "dot syntax".
 
+Object 
+JavaScript object is any scriptable HTML element, that is, any HTML element within a document that may be accessed through the JavaScript language. Although the browser window is not an HTML element, it too is a scriptable object.
+JavaScript objects:
+window
+document
+form
+image
+
+Property
+Objects have properties, which you can think of as characteristics of an object. A JavaScript property has a similar relationship to the object it belongs to that an HTML tag attribute has to the tag that contains it. For example, the JavaScript "value" property is to a text field object as the HTML "width" attribute is to a table tag.
+Method
+Methods are actions that can be applied directly to objects. Within a web page, methods cause a boring old HTML document to react to the end user. This results in a meaningful experience for the end user which would otherwise be completely one-sided.
+Method Parameters
+Syntactically speaking, methods are signified by parenthesis immediately following their name, e.g. "alert()".
+These parenthesis sometimes hold values called parameters, which are required by some methods. 
 
 
 
