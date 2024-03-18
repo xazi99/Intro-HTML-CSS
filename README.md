@@ -213,11 +213,77 @@ Recently, a new image format called WebP has emerged. WebP can be used for any i
 
 #UNIT 4
 UNDERSTANDING TYPE IN CSS
+Unattractive and poorly designed web pages bother most people and they agree that there is something undeniably wrong with the way these pages look. Serif fonts have small lines at the ends of the letters called serifs. In the past, serif fonts were used for printed materials with long text blocks.
+Sans serif fonts do not have serifs and have a more modern appearance.
+
+
+UNIT 5
+CSS PROPERTIES AND CONCEPTS
+The concept of inheritance and specificity in CSS is quite complex.
+
 
 #MODULE 3
 #JAVA SCRIPT
 #INTRODUCTION
+# WEEK1 DAY 1
+VARIABLES
 JavaScript is a programming language used to make web pages interactive. It is what gives a page life - the interactive elements and animations that engage the user.JavaScript was purposely designed to integrate into html.
+Variables arecontainers for storing data ( var, let, const).
+All JavaScript variables must be identified with unique names, these unique names are called identifiers.
+JavaScript identifiers are case-sensitive.
+OPERATORS
+Javascript operators are used to perform different types of mathematical and logical computations. The Assignment Operator (=) assigns a value to a variable.
+Different types of JavaScript operators:
+Arithmetic Operators
+Assignment Operators
+Comparison Operators
+String Operators
+Logical Operators
+Bitwise Operators
+Ternary Operators
+Type Operators
+
+#DAY 2
+STRINGS AND ARRAYS
+String is a data type represssenting sequence of charactors which constists of numbers, letter, symbols, words or sentences. Strings are premitive data types meaning they cannot be changed,they can also be transformrd and process in various ways such as converting them to uppercases or lowercases, comparing them to determine if they equal etc.
+Strings are written with quotes.
+An array is a special variable, which can hold more than one value. It is used to store multiple values and elements to one varioubles.
+
+#DAY 3
+FUNCTIONS
+A JavaScript function is a block of code designed to perform a particular task.It is executed when "something" invokes it (calls it).
+JavaScript function is defined with the function keyword, followed by a name, followed by parentheses (). Function names can contain letters, digits, underscores, and dollar signs (same rules as variables).
+The parentheses may include parameter names separated by commas:
+(parameter1, parameter2, ...)
+The code to be executed, by the function, is placed inside curly brackets: {}
+
+Function Invocation
+The code inside the function will execute when "something" invokes (calls) the function:
+When an event occurs (when a user clicks a button)
+When it is invoked (called) from JavaScript code
+Automatically (self invoked)
+
+Function Return
+When JavaScript reaches a return statement, the function will stop executing.
+If the function was invoked from a statement, JavaScript will "return" to execute the code after the invoking statement.
+Functions often compute a return value. The return value is "returned" back to the "caller".
+
+#DAY 4
+BOOLEANS
+JavaScript Boolean represents one of two values: true or false.
+JavaScript booleans are primitive values created from literals.
+#DAY 5
+Sprint
+
+
+#WEEK 2
+#DAY 1 
+WEB DESIGN
+INTRO TO HTML,CSS & JS
+
+
+
+
 
 
 
