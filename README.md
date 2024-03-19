@@ -397,6 +397,20 @@ Adding a Method to a JavaScript Object
 You can also add a method in an object.
 
 JAVASCRIPT SWITCH STATEMENT
+Switch statement is used to perform different actions based on different condition. 
+Switching Details: 
+If multiple cases matches a case value, the first case is selected. 
+If no matching cases are found, the program continues to the default label. 
+If no default label is found, the program continues to the statement(s) after the switch. 
+Strict Comparison: 
+Switch cases use strict comparison (===). 
+The values must be of the same type to match. 
+A strict comparison can only be true if the operands are of the same type. 
+
+
+
+#WEEK 3
+#DAY 1
 
 
 
