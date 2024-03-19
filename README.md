@@ -321,6 +321,86 @@ These parenthesis sometimes hold values called parameters, which are required by
 
 #DAY 2
 JAVASCRIPT API's
+Some Javascript API's
+document.getElementById(id)
+document.getElementsByTagName(name)
+document.createElement(name)
+parentNode.appendChild(node)
+element.innerHTML
+element.style.left
+element.setAttribute
+element.getAttribute
+element.addEventListener
+
+CALLING ONE FUNCTION FROM ANOTHER
+Code inside a function behaves just like code anywhere else. This means you can call one function from inside another function. This allows you to "nest" functions so that you can create separate functions, which each perform a specific task, and then run them together as a complete process, one right after the other.
+
+Creating objects with user-defined functions
+JavaScript is based on objects: the window is an object, links are objects, forms are objects, even Netscape itself (or other browser) is an object. Using objects can help make programming easier and more streamlined.
+
+Making a new object entails two steps:
+Define the object in a user-defined function.
+Use the new keyword to create (or instantiate) the object with a call to the object function.
+Defining new properties to already-made objects
+After an object has been created you can assign a value to it. But instead of just assigning a value to the object itself, you should define a new property for the object, and assign a value to the property. To create a new property and assign a value to it, simply write a variable expression like this:
+        myobject is the name of the user-defined object.
+        property is the name of the property you want to create.
+        value is the value you want to assign.
+Defining properties when you create the object
+Another method of defining properties for objects is to include the property names in the object function. You can use this technique to simultaneously create a new object and define the property values. All it takes is a few more lines of code in the object function.
+
+TYPES OF OPERATORS
+Assignment operators
+Comparison operators
+Arithmetic operators
+Bitwise operators
+Logical operators
+String operators
+Conditional (ternary) operator
+Comma operator
+Unary operators
+Relational operators
+ssignment Operators
+Return value and chaining
+
+Assignment Operators
+Like most expressions, assignments like x = y have a return value. It can be retrieved by e.g. assigning the expression or logging it: 
+An assignment operator assigns a value to its left operand based on the value of its right operand. The simple assignment operator is equal (=), which assigns the value of its right operand to its left operand. That is, x = y assigns the value of y to x. 
+
+Compound assignment operators
+There are also compound assignment operators that are shorthand for the operations listed in the following table: 
+Note that the return values are always based on the operands’ values before the operation.
+When chaining these expressions, each assignment is evaluated right-to-left.
+
+Destructuring
+For more complex assignments, the destructuring assignment syntax is a JavaScript expression that makes it possible to extract data from arrays or objects using a syntax that mirrors the construction of array and object literals. 
+Comparison Operators 
+A comparison operator compares its operands and returns a logical value based on whether the comparison is true. The operands can be numerical, string, logical, or object values. Strings are compared based on standard lexicographical ordering, using Unicode values. In most cases, if the two operands are not of the same type, JavaScript attempts to convert them to an appropriate type for the comparison. This behaviour generally results in comparing the operands numerically.
+Arithmetic operators
+An arithmetic operator takes numerical values (either literals or variables) as their operands and returns a single numerical value. The standard arithmetic operators are addition (+), subtraction (-), multiplication (*), and division (/). These operators work as they do in most other programming languages when used with floating point numbers (in particular, note that division by zero produces Infinity). 
+Bitwise Operators
+A bitwise operator treats their operands as a set of 32 bits (zeros and ones), rather than as decimal, hexadecimal, or octal numbers. For example, the decimal number nine has a binary representation of 1001. Bitwise operators perform their operations on such binary representations, but they return standard JavaScript numerical values.
+
+THE DOCUMENT OBJECT MODEL
+EVENT BUBBLING
+Bubbling is what the event itself does. 
+An Event Listener would be attached to each element). Then, it bubbles up to each of it’s parent elements until it reaches the document. Any listeners on any of those parent elements would get triggered as it bubbles up. Causing all the events to occur on the page possibly slowing down your application. 
+Event Delegation
+Event delegation is a technique for listening to event where you delegate a parent element as the listener for all the events that happen inside it. 
+
+#DAY 3 
+JAVASCRIPT FORMS
+Forms require PHP to send or receive messages. 
+Accessing Object Methods 
+You can access an object method using a dot notation. You can access a method by calling an objectName and a key for that method along with (). And you can access property only by calling an objectName and a key. 
+Adding a Method to a JavaScript Object 
+You can also add a method in an object.
+
+JAVASCRIPT SWITCH STATEMENT
+
+
+
+
 
 
 
