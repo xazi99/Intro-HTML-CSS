@@ -228,7 +228,7 @@ The concept of inheritance and specificity in CSS is quite complex.
 #INTRODUCTION
 VARIABLES
 JavaScript is a programming language used to make web pages interactive. It is what gives a page life - the interactive elements and animations that engage the user.JavaScript was purposely designed to integrate into html.
-Variables arecontainers for storing data ( var, let, const).
+Variables are containers for storing data ( var, let, const).
 All JavaScript variables must be identified with unique names, these unique names are called identifiers.
 JavaScript identifiers are case-sensitive.
 OPERATORS
@@ -411,6 +411,35 @@ A strict comparison can only be true if the operands are of the same type.
 
 #WEEK 3
 #DAY 1
+#HANDLING EVENTS
+JavaScript's interaction with HTML is handled through events that occur when the user or the browser manipulates a page. When the page loads, it is called an event. When the user clicks a button, that clicks to is called an event. 
+STRING OPERATIONS
+Strings can be created as primitives, from string literals, or as objects, using the String() constructor. String primitives and string objects can be used interchangeably.
+String literals can be specified using single or double quotes, which are treated identically, or using the backtick character. 
+There are two ways to access individual charactors in a string:
+ The first is the charAt() method.
+ The other way (introduced in ECMAScript 5) is to treat the string as an array-like object, where individual characters correspond to a numerical index. 
+String primitives and String objects also give different results when using eval(). Primitives passed to eval are treated as source code; String objects are treated as all other objects are, by returning the object.
+The Onclick Event is the most frequently used event types which occur when a user clicks the left button of his mouse. You can put your validation, warning, etc., against this event type. 
+An OnSubmit event is an event that occurs when you try to submit a form.
+
+ON EVENT HANDLER
+The on-event handlers are a group of properties offered by DOM elements to help manage how that element reacts to events. 
+Elements can be interactive (e.g. links, buttons, images, forms) or non-interactive (e.g. the base document).
+Events are actions like being clicked, detecting pressed keys, getting focus, etc.
+The on-event handler is usually named according to the event it is designed to react to, such as onclick, onkeypress, onfocus, etc.
+
+You can specify an on<...> event handler for a particular event (such as click) for a given object in different ways:
+Using an HTML attribute named on{eventtype} on an element, 
+for example:
+<button onclick="return handleClick(event);">,
+Or by setting the corresponding property from JavaScript,
+for example:
+document.getElementById("mybutton").onclick = function(event) { ... }.
+Each object can have only one on-event handler for a given event (though that handler could call multiple sub-handlers).
+
+
+
 
 
 
