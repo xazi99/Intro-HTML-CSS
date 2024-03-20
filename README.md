@@ -437,6 +437,56 @@ Or by setting the corresponding property from JavaScript,
 for example:
 document.getElementById("mybutton").onclick = function(event) { ... }.
 Each object can have only one on-event handler for a given event (though that handler could call multiple sub-handlers).
+Also note that on-event handlers are called automatically, not at the programmer's will (although you can do so, such as with mybutton.onclick(myevent);) since they serve more as placeholders to which a real handler function can be assigned.
+
+Event handler’s parameters, this binding, and the return value
+When the event handler is specified as an HTML attribute, the specified code is wrapped into a function with the following parameters:
+event - for all event handlers, except onerror.
+event, source, lineno, colno, and error for the onerror event handler. 
+The event parameter actually contains the error message as a string.
+
+The term event handler may be used to refer to:
+any function or object registered to be notified of events,
+or, more specifically, to the mechanism of registering event listeners via on... 
+attributes in HTML or properties in web APIs, such as <button onclick="alert(this)"> or window.onload = function() { /* ... */ }.
+
+When discussing the various methods of listening to events,
+event listener refers to a function or object registered via EventTarget.addEventListener(), 
+whereas event handler refers to a function registered via on... attributes or properties
+The EventTarget method addEventListener() sets up a function that will be called whenever the specified event is delivered to the target.
+
+#DAY 2 
+#DYNAMIC HTML
+CSS and JavaScript can be combined with HTML to create dynamic web pages, which is called dynamic HTML. 
+Changes to the features of a website can be driven by events.
+These changes can be from simple text font, colour, and style changes, to dynamically changing the content of the page and moving objects around the page.
+
+HTML objects can be changed in two ways:
+Changing the class of the object - thereby changing the style of the object
+Using the style property of the object to change the style.
+
+Different ways to design a function
+An object is referenced directly in the JavaScript function using the id value. This function can then be used to change the style of only that particular object.
+An object id being passed as an argument to the JavaScript function, so that the style of any object may be changed.
+An object may be accessed by using the event to determine the object in which the event occurred
+
+DATE OBJECT
+The Date object is a built-in object in JavaScript that stores the date and time. It provides a number of built-in methods for formatting and managing that data.  
+Epoch time, also referred to as zero time, is represented by the date string 01 January.
+Epoch time was chosen as a standard for computers to measure time by in earlier days of programming, and it is the method that JavaScript uses. It is important to understand the concept of both the timestamp and the date string, as both may be used depending on the settings and purpose of an application.  
+
+Retrieving the Date with get  
+Once we have a date, we can access all the components of the date with various built-in methods. Retrieving the Date with get  
+Once we have a date, we can access all the components of the date with various built-in methods.
+The methods will return each part of the date relative to the local timezone. Each of these methods starts with get, and will return the relative number. Below is a detailed table of the get methods of the Date object.
+Modifying the Date with set  
+For all the get methods that we learned about above, there is a corresponding set method.
+Where get is used to retrieve a specific component from a date, set is used to modify components of a date
+
+Date Methods with UTC  
+The get methods discussed above retrieve the date components based on the user’s local timezone settings.
+For increased control over the dates and times, you can use the getUTC methods,
+which are exactly the same as the get methods, except they calculate the time based on the UTC (Coordinated Universal Time) standard
 
 
 
