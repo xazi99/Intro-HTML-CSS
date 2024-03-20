@@ -495,6 +495,29 @@ which are exactly the same as the get methods, except they calculate the
  For example, attempting to assign a day of 30 to February causes the date to roll over into March
 
  #DAY 3
+ KEYBOARD, FORM, DOCUMENT/WINDOW EVENTS
+ A keyboard event is fired when the user presses or releases a key on the keyboard.
+ A form event is fired when a form control receives or loses focus or when the user modifies a form control value.
+ A document/window event is triggered in situations when, for example, the page has loaded or when a user resizes the browser window.
+
+The Keydown Event (onkeydown)
+The keydown event occurs when the user presses down a key on the keyboard. You can handle the keydown event with the onkeydown event handler.
+The Keyup Event (onkeyup)
+The keyup event occurs when the user releases a key on the keyboard. You can handle the keyup event with the onkeyup event handler.
+The Keypress Event (onkeypress)
+The keypress event occurs when a user presses down a key on the keyboard that has a character value associated with it
+You can handle the keypress event with the onkeypress event handler.
+
+FORM EVENTS
+A form event is fired when a form control receives or loses focus or when the user modify a form control value, such as by typing text in a text input, select any option in a select box etc. 
+The Focus Event (onfocus)
+The focus event occurs when the user gives focus to an element on a web page. You can handle the focus event with the onfocus event.
+The Blur Event (onblur)
+The blur event occurs when the user takes the focus away from a form element or a window. You can handle the blur event with the onblur event handler.
+The Change Event (onchange)
+The change event occurs when a user changes the value of a form element. You can handle the change event with the onchange event handler.
+The Submit Event (onsubmit)
+ The submit event only occurs when the user submits a form on a web page. You can handle the submit event with the onsubmit event handler.
  
 
 
