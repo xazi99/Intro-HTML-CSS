@@ -488,6 +488,17 @@ The get methods discussed above retrieve the date components based on the us
 For increased control over the dates and times, you can use the getUTC methods,
 which are exactly the same as the get methods, except they calculate the time based on the UTC (Coordinated Universal Time) standard
 
+ Adding and Subtracting from a Given Date  
+ According to the documentation, Date setters expect an interval-appropriate value.
+ The setDays() setter, for instance, expects a day from 1 to 31. 
+ But really, these ranges are nothing more than helpful recommendations because day values that lie outside of this range are rolled over/back into the next/preceding month(s). 
+ For example, attempting to assign a day of 30 to February causes the date to roll over into March
+
+ #DAY 3
+ 
+
+
+
 
 
 
