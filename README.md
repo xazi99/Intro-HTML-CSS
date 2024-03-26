@@ -565,7 +565,16 @@ Statement 3 is executed (every time) after the code block has been executed.
 
 #DAY 2
 WEBSITE AND SEARCHH ENGINE OPTIMIZTION
-Website optimization is a scientific approach to improving the performance of your website.
+Website optimization is a scientific approach to improving the performance of your website. SEO, is the practice of increasing both the quality and quantity of website traffic, 
+as well as exposure to your brand, through non-paid (also known as "organic") search engine results.
+
+IMAGE & VEDIO OPTIMIZATION
+Gzip-is a file compression format that most browsers understand and that can run behind the scenes without requiring the user to even know it’s happening.
+Depending on where you are hosting your application, gzipping may be as simple as flipping a configuration switch to specify that you want your server to gzip files when sending them out.
+Minification is the process of removing unnecessary characters from code without affecting its functionality (whitespace, new-line characters, and so on). This allows you to decrease the size of the file you are transporting across the internet. It’s also useful for obfuscating your code, which makes it harder for sneaky hackers to detect security weak-points.
+Content Distribution Network(CDN)
+CDN, is a network that allows users from all over the world to be geographically closer to your content. A CDN allows you to take advantage of a bunch of proxy servers located all over the world, allowing your content to be loaded more quickly regardless of where your end-user is located.
+
 
 
 
