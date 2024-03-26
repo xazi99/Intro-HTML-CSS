@@ -533,6 +533,39 @@ Set li to list-style: none and float left, so the images will be in a long line.
 #WEEK 4
 #DAY 1 
 PROGRAMMING FLOWCHARTS, LOOPS AND DECISION STRUCTURES
+Program Flowchart
+The program flowchart illustrates the logic of the program and gives details on manipulating the data. A program flowchart is vital if the program is to be maintained easily,
+and efficiently or if modifications are necessary.
+PROGRAM FLOWCHART SYMBOLS
+Program flowcharts are constructed with a set of standardised symbols that make it easier for persons other than the original programmer to read and maintain the program.
+TERMINATOR-is used to illustrate the start and end of a program with the keywords BEGIN & END.
+PROCESS-an instruction that is to be carried out by the program.
+ARROW-indicates the flow of the algorithm pathway.
+DECISION-is used to split the flowchart sequences into multiple paths inorder to represent SELECTION & REPETITION.
+INPUT\OUTPUT-used to represent data entry by a user or display of data by the program.
+SUBPROGRAM- is a program within another program.
+
+JAVASCRIPT FOR LOOP
+Loops can execute a block of code a number of times and are handy if you want to run the same code over and over again, each time with a different value.
+JavaScript supports different kinds of loops:
+for - loops through a block of code a number of times
+for/in - loops through the properties of an object
+for/of - loops through the values of an iterable object 
+while - loops through a block of code while a specified condition is true
+do/while - also loops through a block of code while a specified condition is true.
+
+The For Loop
+The for loop has the following syntax:
+for (statement 1; statement 2; statement 3) {
+ // code block to be executed
+}
+Statement 1 is executed (one time) before the execution of the code block.
+Statement 2 defines the condition for executing the code block.
+Statement 3 is executed (every time) after the code block has been executed.
+
+#DAY 2
+WEBSITE AND SEARCHH ENGINE OPTIMIZTION
+
 
 
  
