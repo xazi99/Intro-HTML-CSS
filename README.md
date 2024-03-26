@@ -574,6 +574,13 @@ Depending on where you are hosting your application, gzipping may be as simple a
 Minification is the process of removing unnecessary characters from code without affecting its functionality (whitespace, new-line characters, and so on). This allows you to decrease the size of the file you are transporting across the internet. It’s also useful for obfuscating your code, which makes it harder for sneaky hackers to detect security weak-points.
 Content Distribution Network(CDN)
 CDN, is a network that allows users from all over the world to be geographically closer to your content. A CDN allows you to take advantage of a bunch of proxy servers located all over the world, allowing your content to be loaded more quickly regardless of where your end-user is located.
+SEARCH ENGINE OPTIMIZATION
+Search engines are answer machines. They scour billions of pieces of content and evaluate thousands of factors to determine which content is most likely to answer your query.
+Search engines do all of this by discovering and cataloguing all available content on the Internet (web pages, PDFs, images, videos, etc.) via a process known as “crawling and indexing,” and then ordering it by how well it matches the query in a process we refer to as “ranking.” 
+
+Why SEO is important
+While paid advertising, social media, and other online platforms can generate traffic to websites, the majority of online traffic is driven by search engines.
+Organic search results cover more digital real estate, appear more credible to savvy searchers, and receive way more clicks than paid advertisements.
 
 
 
