@@ -518,6 +518,23 @@ The Change Event (onchange)
 The change event occurs when a user changes the value of a form element. You can handle the change event with the onchange event handler.
 The Submit Event (onsubmit)
  The submit event only occurs when the user submits a form on a web page. You can handle the submit event with the onsubmit event handler.
+
+ #DAY 4
+ CREATING AN IMAGE SLIDER
+ A great slideshow is identified by having good quality pictures of the same size, and having a proper animation. 
+ It should allow the user to spend as much time as they need in one picture without rushing to the next one.
+
+The image-slider-wrapper needs to set overflow: hidden cause ul will be a very long list in a line, but only one image can be seen.
+There is no width set for ul( id=image_slider) because we will set it in Javascript. So when there are more/less images we don’t need to change css.
+Webkit has default padding and margin for ul, so we will initialize it with 0px.
+Set li to list-style: none and float left, so the images will be in a long line.
+
+
+#WEEK 4
+#DAY 1 
+PROGRAMMING FLOWCHARTS, LOOPS AND DECISION STRUCTURES
+
+
  
 
 
