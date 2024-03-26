@@ -565,6 +565,7 @@ Statement 3 is executed (every time) after the code block has been executed.
 
 #DAY 2
 WEBSITE AND SEARCHH ENGINE OPTIMIZTION
+Website optimization is a scientific approach to improving the performance of your website.
 
 
 
