@@ -582,6 +582,38 @@ Why SEO is important
 While paid advertising, social media, and other online platforms can generate traffic to websites, the majority of online traffic is driven by search engines.
 Organic search results cover more digital real estate, appear more credible to savvy searchers, and receive way more clicks than paid advertisements.
 
+NODE.JS
+NODE GLOBAL
+NODE.JS MODULE
+A set of functions you want to include in your application.
+Built-in modules on Node.js can be used without any further installation. To include a module use the require() function with the name of the module.
+Node Package Manager(NPM) is a tool for managing packages, which are collections of one or more modules.
+Packages- contains all the files you need for a module.
+Modules- are javascript libraies you can include in a project.
+
+NODE FRAMEWORKS
+Framework- fundamental structure, it provides the essential structure that allows developers to build unpon it.
+WEB FRAMEWORKS FOR NODE.JS
+  Express- tried and tested
+  Sails- feature rich
+  Koa- most modern
+
+Express- stands for out as a traditional and extensively tested framework know for its simpicity.. It provides a straight forward and relaible options for developers.
+Sails- goes beyond a singular framework and includes sub-frameworks like an Object Relational Mapper(ORM). This feature- rich framework facilitates database access and offers additional dunctionalities making it a comprehensive choice.
+Koa- most modern among the discussed frameworks, it offers contemporary approach to web developement and is worth exploring for its innovative features.
+
+NODE.JS EVENTS
+Built-in module called Events, where you can create fire and listen for your own event. Use require() method to include built-in event.
+Node.js File System- allows you to work with the file file system on your computer(require())
+#Read-File is used to read files on the computer.
+#Create-File it has methods for creating files.
+
+
+REACT.JS 
+INTRO
+Software Development Roadmap(SDR)- hsa been disigned to ensure that you have skills,and knowledge to understand, implement and solve basic and advanced full-stack web development bisiness needs.
+React- is a javascript frontend javascript framework, it is a tool used to build User Interface Components.
+
 
 
 
