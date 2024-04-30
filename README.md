@@ -625,6 +625,12 @@ are more like JvaScript functions that return HTML elements. They are reusable m
  FUNCTIONAL COMPONENTS- are javascript functions that accept packages as arguments to return react applications. Also refferd to as stateless components bacause they donot have internal state. Most commonly used one's on representing user interface components.
 
 
+PYTHON
+Python is a high-level programming language know for it's simplicity and readability. It is used in various domains such as web development, data csience, machine learning etc.
+Python uses identification to indicate block of code.
+Python Variables-are created when assigning a variable and they do not have commands when declering variables.
+Python Comments-  
+
 
 
  
