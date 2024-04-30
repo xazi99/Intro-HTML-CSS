@@ -612,7 +612,17 @@ Node.js File System- allows you to work with the file file system on your comput
 REACT.JS 
 INTRO
 Software Development Roadmap(SDR)- hsa been disigned to ensure that you have skills,and knowledge to understand, implement and solve basic and advanced full-stack web development bisiness needs.
-React- is a javascript frontend javascript framework, it is a tool used to build User Interface Components.
+React- is a javascript frontend javascript framework, it is a tool used to build User Interface Components. It creates a vitual DOM in the memory where it does all the manipulating before making any changes in the broswer.
+React.js can find out changes that have been made and only change whats need to be changed.
+
+REACT ELEMENTS
+React elements are building blocks of react application. They are created using JSX, a syntax extention for JavaScrpipt that resembles XML&HTML. React Elements are immutable meaning they acan not be modified once they are created. They allow users to declare User Interface in a more easy way to understand.
+
+REACT COMPONENTS 
+are more like JvaScript functions that return HTML elements. They are reusable modules that ancapsulates a piece of user interface.
+2 TYPES
+ CLASS COMPONENTS- they include the extend React.Component and have a render() method that returns React elements.They have internal state that is managed by React allowing then to handle user interactions and maintain data.
+ FUNCTIONAL COMPONENTS- are javascript functions that accept packages as arguments to return react applications. Also refferd to as stateless components bacause they donot have internal state. Most commonly used one's on representing user interface components.
 
 
 
