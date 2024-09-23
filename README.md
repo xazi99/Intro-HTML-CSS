@@ -521,7 +521,7 @@ The Submit Event (onsubmit)
 
  #DAY 4
  CREATING AN IMAGE SLIDER
- A great slideshow is identified by having good quality pictures of the same size, and having a proper animation. 
+ A great slideshow is identified by having good quality pictures of the same size, and having a proper animation.
  It should allow the user to spend as much time as they need in one picture without rushing to the next one.
 
 The image-slider-wrapper needs to set overflow: hidden cause ul will be a very long list in a line, but only one image can be seen.
